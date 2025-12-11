@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Developer with almost 5 years experience, i can deliver robust application. I have experience in Laravel, React, Node.js. I'm Currently learning Golang to improve my skill
+Web Developer with more than 5 years experience, i can deliver robust application. I have experience in Laravel, React, Node.js. I'm currently learning Golang to improve my skill
 
 
 ## 🌐 Socials:
